@@ -1,6 +1,6 @@
 **Goal**
 
-Moto of this project was to visualize all the analysis done till now on UFO dataset using D3.js and Apache Solr.
+Aim of this project was to visualize all the analysis done till now on UFO dataset using D3.js and Apache Solr.
 
 
 **Script/Code for data cleaning:**
